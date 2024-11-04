@@ -1,6 +1,6 @@
 <div class="oranda-hide">
 
-# rustlings 🦀❤️
+# rustlings 🦀 [46/96]
 
 </div>
 
